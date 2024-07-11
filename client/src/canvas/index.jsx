@@ -1,6 +1,6 @@
 const Canvas = () => {
   return (
-    <div>index</div>
+    <div>Canvas</div>
   )
 }
 
